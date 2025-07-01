@@ -6,3 +6,8 @@
     <li>Avispa</li>
     <li>Hombre Hormiga</li>
 </ul>
+
+
+
+
+<li>Pantera Negra</li>
